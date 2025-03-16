@@ -1,1 +1,1 @@
-A Calculator Project built using HTML and CSS typically consists of creating a simple web-based calculator interface that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. #codesoft
+A Calculator Project built using HTML ,CSS and Javascript typically consists of creating a simple web-based calculator interface that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. #codesoft
